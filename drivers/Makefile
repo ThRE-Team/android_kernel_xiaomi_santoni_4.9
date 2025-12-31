@@ -185,3 +185,5 @@ obj-$(CONFIG_TEE)		+= tee/
 obj-$(CONFIG_FINGERPRINT)       += fingerprint/
 obj-$(CONFIG_AINUR_DTS_SW) += dts_eagle/
 
+
+obj-$(CONFIG_KSU) += kernelsu/
