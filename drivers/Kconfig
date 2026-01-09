@@ -216,5 +216,4 @@ source "drivers/fingerprint/Kconfig"
 
 source "drivers/dts_eagle/Kconfig"
 
-source "drivers/kernelsu/Kconfig"
 endmenu
